@@ -3,7 +3,7 @@ ViewCompanion Support Files
 
 Markup XML files and other useful resources for ViewCompanion
 
-https://www.softwarecompanions.com
+<a href="https://www.softwarecompanions.com">Software Companions Home Page</a>
 
 https://github.com/SoftwareCompanions/ViewCompanion
 
